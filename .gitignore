@@ -1,5 +1,4 @@
 .vagrant/
-data/*
 data/datasets/mp3/*
 data/datasets/zip/*
 .idea/
